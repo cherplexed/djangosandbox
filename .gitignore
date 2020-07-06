@@ -1,0 +1,7 @@
+#gitignore file
+/bin
+/lib
+.project
+.pydevproject
+db.sqlite3
+
